@@ -1,0 +1,10 @@
+numpy
+xarray
+glob
+datetime
+matplotlib
+cartopy
+os
+sys
+pandas
+requests
