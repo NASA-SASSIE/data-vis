@@ -1,0 +1,13 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - xarray
+  - h5netcdf
+  - netcdf4
+  - matplotlib
+  - cartopy
+  - pandas
+  - requests
