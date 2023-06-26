@@ -5,6 +5,7 @@ dependencies:
   - python=3.8
   - numpy
   - xarray
+  - cf_xarray
   - h5netcdf
   - netcdf4
   - matplotlib
