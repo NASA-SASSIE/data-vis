@@ -7,3 +7,6 @@
  <p>The aim of this notebook is to assist the end user in exploratory data analysis by downloading the SASSIE Salinity Snake Data from NASA's PODAAC, opening the dataset and displaying it's associated metadata, and creating a few visualizations that can be saved to the user's local disc. Please use the following sections to explore this data. The blocks of code must be run in order for full functionality, even if they are in different sections. This notebook was created by Elizabeth Westbrook. For questions and trouble shooting, please email westbrooke@uncw.edu.</p>
 
 ## The notebooks are accessible through a Jupyter binder. Please visit: 
+
+<a href = "https://mybinder.org/v2/gh/NASA-SASSIE/data-vis/main">https://mybinder.org/v2/gh/NASA-SASSIE/data-vis/main</a>
+
