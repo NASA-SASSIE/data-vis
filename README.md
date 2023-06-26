@@ -1,6 +1,6 @@
 # Welcome to SASSIE Data Visualization Github! 
 
-<p>Thank you for you interest in the SASSIE Salinity Snake data!</p>
+<p>Thank you for you interest in the SASSIE campaign data!</p>
     <p>SASSIE is a NASA funded project that aims to better understand the role of salinity stratification in the marginal ice zone. In the fall of 2022, SASSIE conducted a field campaign off the Alaskan coast in the Beaufort Sea. This campaign included shipboard measurements as well as 6 remotely piloted/drifing platforms and an ariel campaign. To learn more, please visit <a href="https://salinity.oceansciences.org/sassie.html">https://salinity.oceansciences.org/sassie.html</a></p>
 
 ## Here you will find Jupyter Notebooks that show ways to download and visualize data collected durring the SASSIE campaign. 
