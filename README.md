@@ -8,5 +8,7 @@
 
 <b> The notebooks are accessible through a Jupyter binder. Please visit <a href = "https://mybinder.org/v2/gh/NASA-SASSIE/data-vis/main">https://mybinder.org/v2/gh/NASA-SASSIE/data-vis/main</a></b>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NASA-SASSIE/data-vis/main)
+
 
 
